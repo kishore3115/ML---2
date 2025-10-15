@@ -1,0 +1,18 @@
+Customer Segmentation Using K-Means for Retail Analytics:
+In retail analytics, businesses analyze customer behavior to create better marketing strategies. By using K-Means clustering, we segment customers based on Age, Annual Income, and Spending Score to identify distinct groups.
+How We Do It:
+1. Collect & Prepare Data – We use a dataset containing customer details like Age, Annual Income, and Spending Score.
+2. Determine the Number of Clusters – Using the Elbow Method, we find the best number of customer groups by analyzing how the variance within clusters decreases.
+3. Apply K-Means Clustering – We group customers based on their similarities.
+4. Evaluate the Segments – We use metrics like Silhouette Score, Davies-Bouldin Score, and Calinski-Harabasz Score to measure how well the clustering works.
+5. Visualize & Interpret Results – We plot the clusters to understand customer behavior better.
+What We Get (Customer Groups):
+Premium Shoppers – High-income, high-spending customers
+Frequent Budget Shoppers – Low-income customers who spend often
+Occasional Shoppers – Low-income, low-spending customers
+Young Customers – Students and young professionals with mixed spending habits
+How This Helps Businesses:
+1.Targeted Marketing – Send personalized offers to different customer groups
+2.Improved Customer Loyalty – Design loyalty programs for high-value customers
+3.Optimized Business Strategies – Make better pricing and product placement decisions
+By using data-driven insights, businesses can better understand their customers and improve customer engagement.
